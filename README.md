@@ -1,6 +1,6 @@
 # Introduction
 
-Reproduction for issue: http://github.com/prisma/photonjs/issues/31
+Reproduction for issue: http://github.com/prisma/photonjs/issues/33
 
 # Steps
 
